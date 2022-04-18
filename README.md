@@ -1,4 +1,4 @@
-# Batalha Naval - JAVA
+# :joystick: Batalha Naval - JAVA :trophy:
 
 ## Atividade:
 
